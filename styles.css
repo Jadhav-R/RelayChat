@@ -1,0 +1,15 @@
+.chat-box{
+  height: calc(100vh - 172px);
+  border-top: #aaa solid 1px;
+  overflow-Y: auto;
+  padding-top: 5px;
+}
+.chat-message {
+  min-height: 100px;
+}
+.profile-pic {
+  display: flex;
+}
+.profile-pic img {
+  margin: auto;
+}
